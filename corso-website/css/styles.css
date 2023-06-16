@@ -1,0 +1,47 @@
+.header {
+  min-height: 1000px;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/header-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.header .slide {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.navbar {
+  transition: all 0.5s ease-in-out;
+}
+
+.invitation-bg {
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/invitation-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 992px) {
+  .navbar {
+    background: var(--bs-dark);
+  }
+  .header {
+    height: 800px !important;
+    min-height: 800px !important;
+  }
+  .header .slide {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .header .text-container p {
+    width: 100% !important;
+    font-size: 16px;
+  }
+  .register {
+    padding: 40px 0 !important;
+  }
+  .register h2 {
+    text-align: center;
+  }
+  .summary {
+    margin-top: 0 !important;
+    width: 90% !important;
+  }
+}
