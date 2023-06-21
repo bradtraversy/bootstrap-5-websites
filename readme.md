@@ -1,6 +1,6 @@
 # Bootstrap 5 Websites
 
-> 5 website projects from the [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-5-from-scratch) course.
+> 5 website projects from the [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch) course.
 
 <img src="screen.png" />
 
