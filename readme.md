@@ -1,22 +1,8 @@
-# Bootstrap 5 Websites
-
-> 5 website projects from the [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch) course.
-
-<img src="screen.png" />
-
-## Demos
-
-- [Ebook Website](https://bootstrapfromscratch.com/ebook-website)
-- [Corso Training Website](https://bootstrapfromscratch.com/corso-website)
-- [Portfolio Website](https://bootstrapfromscratch.com/portfolio-website)
-- [Yavin Office Design Website](https://bootstrapfromscratch.com/yavin-website)
-- [Vera Software Solutions Website](https://bootstrapfromscratch.com/vera-website)
-
 ## Usage
 
 These projects were built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). They also use [Font Awesome](https://fontawesome.com/) for icons. They were created using the [BS5 Simple Starter](https://github.com/bradtraversy/bs5-simple-starter)
 
-To customize any of these websites, you need to install [Node.js](https://nodejs.org/en/) and run the following in the project folder:
+To customize any of this website, you need to install [Node.js](https://nodejs.org/en/) and run the following in the project folder:
 
 ```bash
 npm install
@@ -42,5 +28,4 @@ To customize Bootstrap, you can add Bootstrap variables to the `scss/bootstrap.s
 
 All websites were custom coded by me, however the designs and assets were inspired and provided by the following:
 
-- [https://htmlrev.com/](https://htmlrev.com/) - Vera, Yavin, Ebook & Corso
 - [https://styleshout.com/](https://styleshout.com/) - Porfolio
